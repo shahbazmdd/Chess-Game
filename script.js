@@ -13,7 +13,7 @@ function insertImage() {
 }
 insertImage()
 
-//Coloring
+//Colorings
 
 function coloring() {
     const color = document.querySelectorAll('.box')
